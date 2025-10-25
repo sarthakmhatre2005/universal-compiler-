@@ -4,7 +4,8 @@
 
 A lightweight, educational compiler project built to analyze, parse, and generate intermediate code for a custom programming language. This project demonstrates key compiler-design stages — lexical analysis, syntax analysis, semantic checking, and intermediate-code generation — and includes a web UI / tools layer implemented in TypeScript.
 
-Author: sarthakmhatre2005  
+- [Sarthak Mhatre](https://github.com/sarthakmhatre2005)
+- [Diksha Churi](https://github.com/dikshachuri2006)  
 License: MIT (see LICENSE file)
 
 ---
@@ -206,3 +207,4 @@ Email / GitHub handle: sarthakmhatre2005
 ## Notes for maintainers (what I used to create this README)
 - I used the repository description you provided and the language composition stats (TypeScript 93.3% / CSS 5.6% / HTML 1.1%) plus your note that the project demonstrates lexical analysis, parsing, semantic checking, and code generation (implemented in Python/C++/TypeScript layers).
 - Because I couldn't read file contents automatically, I added placeholders and example commands. To finalize the README I need the actual file paths and exact build/run/test commands from your repo. Once you provide them (or grant access), I will replace the placeholders and produce a ready-to-commit README and optionally open a branch with the change.
+
